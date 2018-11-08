@@ -1,5 +1,15 @@
-html: {
+html {
   background-color: #c9b5ab;
-  font-family: 'PT Sans', sans-serif;
   line-height: 1.5;
+  font-weight: normal;
+  font-size: 1.123rem;
+}
+
+h1, h2 {
+ color: #3f1622;
+  font-family: "PT Serif", serif;
+}
+
+img {
+ width: 100%;
 }
